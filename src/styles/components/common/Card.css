@@ -1,0 +1,37 @@
+.cardItem {
+    border: 1px solid #10f108;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px;
+    width: 200px;
+    box-shadow: 0 4px 8px rgba(247, 242, 242, 0.1);
+    text-align: center;
+    background-color: rgb(149, 176, 228);
+  }
+  
+  .cardItem img {
+    max-width: 40%;
+    height: auto;
+    border-radius: 4px;
+  }
+  
+  .cardItem h2, .cardItem h3 {
+    margin: 8px 0;
+  }
+
+  .cardButtons{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    font-size: 10px;
+  }
+
+  .buttonAgregar{
+    background-color: orange;
+    color: white;
+  }
+
+  .buttonDetalle{
+    background-color: rgb(230, 7, 211);
+    color: white;
+  }

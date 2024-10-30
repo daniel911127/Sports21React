@@ -1,5 +1,6 @@
-import '../styles/components/ItemListContainer.css'
+import '../../styles/components/pages/ItemListContainer.css'
 import { useState,useEffect } from 'react';
+import { Card } from '../common/Card';
 
 const mockAPI = () => {
   return new Promise ((resolve, reject) => {
@@ -14,11 +15,21 @@ function ItemListContainer() {
     mockAPI()
     .then(res => res.json())
     .then((data) => setData(data));
-}, []);
+  }, []);
+    console.log(data)
   return (
-    <div>
+    <div className="itemListContainer">
       {
-        data.map(item=>item.name)
+        data.map(item=>(
+          <Card
+            key={item.id}
+            id={item.id}
+            name={item.name}
+            price={item.price}
+            stock={item.stock}
+            image={item.image}
+          />
+        ))
       }
     </div>
   )

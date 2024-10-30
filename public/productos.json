@@ -4,119 +4,134 @@
     "name":"Guayos Adidas X",
     "category":"futbol",
     "description":"Guayos marca Adidas version x-men ciclope",
-    "stock":"20",
-    "image":"/public/img/adidasX.png"
+    "stock":20,
+    "image":"/public/img/adidasX.png",
+    "price":165.00
   },
   {
     "id":2,
     "name":"Balón Nike",
     "category":"futbol",
     "description":"Balón Nike de la copa libertadores temporada 2023",
-    "stock":"20",
-    "image":"/public/img/balonnike.png"
+    "stock":20,
+    "image":"/public/img/balonnike.png",
+    "price":42.00
   },
   {
     "id":3,
     "name":"Banda Adidas",
     "category":"tennis",
     "description":"Muñequeras largas marca Adidas para tennis ",
-    "stock":"20",
-    "image":"/public/img/bandatennis.png"
+    "stock":20,
+    "image":"/public/img/bandatennis.png",
+    "price":15.00
   },
   {
     "id":4,
     "name":"Bate Beisbol",
     "category":"beisbol",
     "description":"Bate de beisbol profesional de madera marca good night",
-    "stock":"20",
-    "image":"/public/img/bate.png"
+    "stock":20,
+    "image":"/public/img/bate.png",
+    "price":28.00
   },
   {
     "id":5,
     "name":"Camiseta Texas Rangers",
     "category":"beisbol",
     "description":"Camiseta de baisbol del equipo Texas Rangers marca Nike color blanca",
-    "stock":"20",
-    "image":"/public/img/camisetabeis.png"
+    "stock":20,
+    "image":"/public/img/camisetabeis.png",
+    "price":102.00
   },
   {
     "id":6,
     "name":"Camiseta Derby County",
     "category":"futbol",
     "description":"Camiseta local del equipo inglés Derby County ",
-    "stock":"20",
-    "image":"/public/img/camisetaCountry.png"
+    "stock":20,
+    "image":"/public/img/camisetaCountry.png",
+    "price":125.00
   },
   {
     "id":7,
     "name":"Casco Reyes",
     "category":"boxeo",
     "description":"Protector cabeza color azul",
-    "stock":"20",
-    "image":"/public/img/cascobox.png"
+    "stock":20,
+    "image":"/public/img/cascobox.png",
+    "price":82.00
   },
   {
     "id":8,
     "name":"Cordaje Luxelon",
     "category":"tennis",
     "description":"Cordaje naranja para raquetas de tennis tensión baja numero 1",
-    "stock":"20",
-    "image":"/public/img/cordaje.png"
+    "stock":20,
+    "image":"/public/img/cordaje.png",
+    "price":23.00
   },
   {
     "id":9,
     "name":"Camiseta Cruz Azul",
     "category":"futbol",
     "description":"Camiseta visitante de equipo mexicano Cruz Azul",
-    "stock":"20",
-    "image":"/public/img/cruzAzul.png"
+    "stock":20,
+    "image":"/public/img/cruzAzul.png",
+    "price":98.00
   },
   {
     "id":10,
     "name":"Gorra Cardenales San Luis",
     "category":"beisbol",
     "description":"Gorra de los Cardenales de San Luis color negro con rojo",
-    "stock":"20",
-    "image":"/public/img/gorrabeis.png"
+    "stock":20,
+    "image":"/public/img/gorrabeis.png",
+    "price":43.00
   },
   {
     "id":11,
     "name":"Gorra Nike",
     "category":"tennis",
     "description":"Gorra marca Nike para tennis de Rafael Nadal color azul",
-    "stock":"20",
-    "image":"/public/img/gorratennis.png"
+    "stock":20,
+    "image":"/public/img/gorratennis.png",
+    "price":55.00
   },
   {
     "id":12,
     "name":"Guante Mizuno",
     "category":"beisbol",
     "description":"Guante de beisbol marca Mizuno para Beisbol color cafe",
-    "stock":"20",
-    "image":"/public/img/guanteBeisbol.png"
+    "stock":20,
+    "image":"/public/img/guanteBeisbol.png",
+    "price":39.00
   },
   {
     "id":13,
     "name":"Guante Beisbol",
     "category":"beisbol",
     "description":"Guantes de beisbol para bateo color verde con blanco",
-    "stock":"20",
-    "image":"/public/img/guantesbeis.png"
+    "stock":20,
+    "image":"/public/img/guantesbeis.png",
+    "price":32.00
   },
   {
     "id":14,
     "name":"Guantes Everlast",
     "category":"boxeo",
     "description":"Guantes Everlast color blanco con gris tecnología powerlock 12 Onz.",
-    "stock":"20",
-    "image":"/public/img/guantesBox.png"
+    "stock":20,
+    "image":"/public/img/guantesBox.png",
+    "price":34.00
   },
   {
     "id":15,
     "name":"Guayos Nike Air",
     "category":"futbol",
     "description":"Guayos marca Nike version Air color verde con naranja",
-    "stock":"20",
-    "image":"/public/img/guayosNikeAir.png"
+    "stock":20,
+    "image":"/public/img/guayosNikeAir.png",
+    "price":135.00
   }
 ]
